@@ -1,1 +1,1 @@
-# mtg-loudsense
+# Loudsense
